@@ -1,7 +1,7 @@
 # sem01-dsc-prob
 Excelling with Excel
 
-Practical Questions for UoD (NEP-UGCF) B.Sc. (Hons.) Mathematics Semester-I (AUG2023) DSC-III Probability
+Practical Questions for UoD (NEP-UGCF) Year-I B.Sc. (Hons.) Mathematics <b>Semester-I (AUG2023) DSC-III Probability</b>
 
 <ol>
   <li>
